@@ -12,6 +12,9 @@
  */
  /* font-family: 'DFHsiu-W3-WIN-BF';
      src: url(DFHsiu-W3-WIN-BF.woff) format('woff'); */
+     footer{
+      font-size: 40px;
+     }
      @font-face {
       font-family: 'senty';
       src: url('assets/font/font/SentyVanilla.woff') format('woff');
